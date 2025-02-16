@@ -3,4 +3,5 @@ aiofiles
 requests
 tarfile
 datetime
-typing
+typingp
+python-dotenv
