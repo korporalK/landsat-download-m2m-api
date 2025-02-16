@@ -1,0 +1,6 @@
+aiohttp
+aiofiles
+requests
+tarfile
+datetime
+typing
